@@ -1,0 +1,27 @@
+{
+  "name": "com.polychrom.cordova.AccountManagerPlugin",
+  "version": "0.1.0",
+  "description": "An Android AccountManager plugin for Apache Cordova.",
+  "cordova": {
+    "id": "com.polychrom.cordova.AccountManagerPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixtura/cordova-android-accountmanager.git"
+  },
+  "keywords": [
+    "cordova",
+    "account",
+    "android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "Modified BSD"
+}

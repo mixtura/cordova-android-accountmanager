@@ -9,7 +9,7 @@
     <license>Modified BSD</license>
     <keywords>cordova,account,android</keywords>
 
-    <repo>https://github.com/polychrom/cordova-android-accountmanager.git</repo>
+    <repo>https://github.com/mixtura/cordova-android-accountmanager.git</repo>
 
     <js-module src="www/js/accountmanager.js" name="accountmanager">
         <clobbers target="accountmanager" />
