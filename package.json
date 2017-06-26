@@ -23,5 +23,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "license": "Modified BSD"
+  "license": "Modified BSD",
+  "bugs": {
+    "url": "https://github.com/mixtura/cordova-android-accountmanager/issues"
+  },
+  "homepage": "https://github.com/mixtura/cordova-android-accountmanager#readme",
+  "author": ""
 }
